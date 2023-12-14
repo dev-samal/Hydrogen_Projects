@@ -8,6 +8,7 @@ While HFC's are new and exciting, infrastructure, funding and much time is requi
 To view the app go to 
 ____________________________________________________________________________________________________________
 **Recreate the app**
+
 1.) Download all items from folder
 2.) Save the dataset (H2Projects.csv) in the same folder and .py file
 3.) Open H2Project.py in Visual Studio Code
