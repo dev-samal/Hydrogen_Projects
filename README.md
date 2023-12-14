@@ -11,6 +11,7 @@ ________________________________________________________________________________
 1.) Download all items from folder
 2.) Save the dataset (H2Projects.csv) in the same folder and .py file
 3.) Open H2Project.py in Visual Studio Code
-4.) Run H2Projects.py with command streamlit _ _run H2.Projects.py _ _
+4.) Run H2Projects.py with command * *streamlit run H2.Projects.py* *
+
 
 
