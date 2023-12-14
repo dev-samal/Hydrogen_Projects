@@ -20,11 +20,11 @@ ________________________________________________________________________________
 - https://www.eia.gov/energyexplained/hydrogen/use-of-hydrogen.php
 - https://www.energy.gov/eere/fuelcells/hydrogen-production
 - https://www.iea.org/reports/global-hydrogen-review-2023
-
+____________________________________________________________________________________________________________
 **Data Prep**
 
 The dataset is comprised of statistics from news releases, announcement, and articles. The data is updated at least once a year. Currently the app uses data as of 2022. The dataset signifies if a project implements carbon capture with "/CCUS". To visualize the application of carbon capture implementation, I added a 'carbon capture' column to identify if a project plans carbon capture or not; 1 means yes, blank means no. I converted country abbreviations to full country names to bring clarity to the locations of planned projects. Country name is used to join a longitude and latitude table for creation of maps.
-
+____________________________________________________________________________________________________________
 **Future Plan**
 
 Future updates to this app would include refreshing date with IEA's newest information. Since the visuals and dashboard informs on global interest, and initial research and development of hydrogen projects, next steps to improve the app include focusing in on one end user industry. The goal would be to show cause and effect, if any, of the appllication of H2 fuel cells on various industries. Another route of expansion would be an cost analysis of implementing these projects by country and seeing if the cost is worth the reduction in carbon emissions.
