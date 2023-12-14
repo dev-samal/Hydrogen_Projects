@@ -8,11 +8,10 @@ While HFC's are new and exciting, infrastructure, funding and much time is requi
 To view the app go to 
 ____________________________________________________________________________________________________________
 **Recreate the app**
-
-- 1.) Download all items from folder
-- 2.) Save the dataset (H2Projects.csv) in the same folder and .py file
-- 3.) Open H2Project.py in Visual Studio Code
-- 4.) Run H2Projects.py with command * *streamlit run H2.Projects.py* *
+1.) Download all items from folder
+2.) Save the dataset (H2Projects.csv) in the same folder and .py file
+3.) Open H2Project.py in Visual Studio Code
+4.) Run H2Projects.py with command * *streamlit run H2.Projects.py* *
 ____________________________________________________________________________________________________________
 **Data Sources**
 - https://www.iea.org/data-and-statistics/data-product/hydrogen-production-and-infrastructure-projects-database
