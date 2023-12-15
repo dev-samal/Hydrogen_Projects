@@ -128,7 +128,7 @@ with tab2:
     # ).encode(text= 'sumCO2:Q')
     industry2
 
-    st.write('These are the industries that commonly use the hydrogen molecules (produced in the previous bar graph) to power manufacturing, refinement of goods or transportation. The chart above shows an estimation of how much CO2 could be reduced per industry globally if they successfully transition to the planned hydrogen projects. During the transition, they are still emitting lots of CO2. Therefore, some industries have planned mechanisms to capture and store their CO2 emission until it can be disposed of properly, indicated by the orange highlights')
+    st.write('These are the industries that commonly use the hydrogen molecules (produced in the previous bar graph) to power manufacturing, refinement of goods or transportation. The chart above shows an estimation of how much CO2 could be reduced per industry globally if they successfully transition to the planned hydrogen projects. During the transition, they are still emitting lots of CO2. Therefore, some industries have planned mechanisms to capture and store their CO2 emission until it can be disposed of properly, indicated by the light blue highlights')
 
 
     sumCO2 = h2.groupby(by=['End Use'])['IEA zero-carbon estimated normalized capacity'].sum()
