@@ -16,6 +16,7 @@ with tab1:
 ###VISUALS
     st.sidebar.header('Make Selections')
     st.write(":orange[Make a selection to see which parts of globe are interested in such projects, planned spread over the future years, or project progress]")
+    st.write('Collapse sidebar to get a wider view if you would like :')
     x_axis_cols = cols = h2.drop(columns=['Latitude','Longitude','Carbon Capture','Country','End Use','Electricty Used Color(Feedstock)','Country Full Name','Project Name','Technology Category','Production Technology','Type of Electricity Used for Production','Hydrogen Product','IEA zero-carbon estimated normalized capacity']).columns.values.tolist()
 
     xVar = st.sidebar.selectbox('Select to Group By for Quick Glance',
