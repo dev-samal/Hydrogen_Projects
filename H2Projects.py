@@ -132,7 +132,7 @@ with tab2:
     )
     CO2Capture
 
-    st.write('There is a lot more carbon capture technology build into current year and next 2 years plans than father ahead. This distribution could change once 2023 data is released in a couple more months. One could see how project planning has evolved to includ this very important practice.')
+    st.write('Carbon capture technology (CCUS) seems to be built more into current years and +/- 3 years than even 10 years ago. The need for more sustainable practices has grown significantly over that decade, such that seeing CO2 storage being incorporated into plans is not surprising. This distribution could change once 2023 data is released in a couple more months. I would expect an increase in countries participating in CCUS')
 
 #for Tab 3 as a raw data tab to simply explore at a Project Name level
 with tab3:
